@@ -1,5 +1,9 @@
 # Simple PlayerPrefs Editor
 
+## Feature:
+- Save PlayerPrefs with multiple slots.
+- Read and edit directly in the Unity Editor via the Scriptable Object Inspector.
+
 ## How to use?
 
 ##### Save PlayerPrefs from json string
