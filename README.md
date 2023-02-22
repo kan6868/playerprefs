@@ -43,5 +43,4 @@
 *To view the PlayerPrefs profile you need to create a ScriptableObject User Profile.
 
 #### Credits
-- Nguyen Ha Dong (.GEARS) (2012)
 - Module Playerprefs made by Kan (2022)
