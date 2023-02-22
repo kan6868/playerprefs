@@ -10,6 +10,16 @@
 ##### Save PlayerPrefs from json string
 
 ```csharp
+  //Json Format
+  string jsonData = @"
+  {
+    ""name"": ""Steve"",
+    ""age"": 30,
+    ""avg"": 12321.0002,
+    ""some-string"": ""I'm Cat!!"",
+    ""new"": ""I'm Animal""
+  }";
+
   PlayerPrefsUtility.Save(string jsonData, string profileName);
 ```
 
