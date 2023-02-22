@@ -3,6 +3,7 @@
 ## Feature:
 - Save PlayerPrefs with multiple slots.
 - Read and edit directly in the Unity Editor via the Scriptable Object Inspector.
+- Data encrypted with AESEncryption and Base62.
 
 ## How to use?
 
