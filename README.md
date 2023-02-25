@@ -40,7 +40,7 @@
 
 ![image](https://user-images.githubusercontent.com/70838508/220557342-076533fc-5fcd-4dac-984e-1f5204c43a1e.png)
 
-*To view the PlayerPrefs profile you need to create a ScriptableObject User Profile.
+*To read the PlayerPrefs profile you need to create a ScriptableObject User Profile.
 
 #### Credits
 - Module Playerprefs made by Kan (2022)
